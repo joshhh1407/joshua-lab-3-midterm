@@ -1,0 +1,92 @@
+body {
+font-family: Trebuchet MS;
+background-color: #f1f8e9;
+margin: 20px;
+}
+
+#box {
+width: 400px;
+margin: 0 auto;
+background-color: white;
+padding: 20px;
+border: 3px solid #558b2f;
+}
+
+h1 {
+color: #33691e;
+text-align: center;
+margin-bottom: 0;
+}
+
+.sub {
+text-align: center;
+color: #795548;
+margin-top: 5px;
+}
+
+label {
+color: #33691e;
+font-weight: bold;
+}
+
+label.agree {
+font-weight: normal;
+}
+
+input {
+width: 220px;
+padding: 5px;
+margin-top: 4px;
+border: 1px solid #558b2f;
+}
+
+#terms {
+width: auto;
+}
+
+select {
+width: 232px;
+padding: 5px;
+margin-top: 4px;
+border: 1px solid #558b2f;
+}
+
+button {
+padding: 8px 16px;
+margin-right: 6px;
+background-color: #558b2f;
+color: white;
+border: none;
+}
+
+.err {
+display: block;
+margin-top: 4px;
+color: red;
+font-size: 13px;
+}
+
+.note {
+display: block;
+margin-top: 4px;
+color: gray;
+font-size: 13px;
+}
+
+#successMessage {
+color: #33691e;
+text-align: center;
+}
+
+#registrationSummary {
+width: 400px;
+margin: 15px auto 0 auto;
+background-color: #dcedc8;
+padding: 15px;
+border: 3px solid #558b2f;
+}
+
+#registrationSummary h2 {
+color: #33691e;
+margin-top: 0;
+}
